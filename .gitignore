@@ -1,0 +1,6 @@
+project-files/dynamips/
+*.ghost
+*_iomem
+*_bootflash
+*.log
+*.txt
